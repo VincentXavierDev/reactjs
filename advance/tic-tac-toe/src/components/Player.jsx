@@ -27,4 +27,4 @@ function Player({ name, symbol, isActive }) {
     )
 }
 
-export default Player      
+export default Player
