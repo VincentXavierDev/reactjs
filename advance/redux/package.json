@@ -1,0 +1,15 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "Local state: là những trạng thái thuộc riêng cho component: useState, useReduces\r Cross-component state: là trạng thái dùng cho nhiều component\r App-wise state: là state có thể truy cập ở mọi nơi trong app",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
